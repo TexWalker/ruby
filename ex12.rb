@@ -1,5 +1,5 @@
 print "give me a number: "
-number = gets.chome.to_i
+number = gets.chomp.to_i
 
 bigger = number * 100
 puts "a bigger number is #{bigger}"
